@@ -1,0 +1,19 @@
+1 -->  First open a repositry in GitHub 
+2 -->  In VS Code in terminal type and take link from of github and paste>>  git clone http://link
+3 -->  for move in to folder type >> cd foldername(github)
+
+Add/Update file from vs code to github:
+1 -->  type>>  git add filename.exetension
+2 -->  to check status type >> git status
+3 -->  to save in github waiting type >> git commit -m "message here"
+4 -->  to save in github type >> git push orgin main(folder name)
+
+Add/Update file from github to vs code:
+1 --> type>> git pull
+
+To delete file from github:
+1 --> first delete in local folder 
+2 --> type>>  git add filename.exetension
+3 --> to check status type >> git status
+4 --> to save in github waiting type >> git commit -m "message here"
+5 --> to save in github type >> git push orgin main(folder name)
