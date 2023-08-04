@@ -3,7 +3,7 @@ This contains the learning of java
 >> ex1: Reverse vowel of a string (Concept: String)
 >> ex2: Remove vowel from the string (Concept: String)
 >> ex3: Change UpperCase to LowerCase and Lowercase to UpperCase (Concept: String)
->> ex4:
+>> ex4: Given a string A and integer B, remove all consecutive same characters that have length exactly B. (eg: aabbcdde,b=2>>o/p=ce)(Concept: String)
 >> ex5:
 >> ex6:
 >> ex7:
