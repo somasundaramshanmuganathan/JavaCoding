@@ -5,8 +5,8 @@ public class ex8 {
 		int a[]={3,10,6,2,4};
 		int i=0,j=0;
 		for(i=0;i<a.length;i++){
+            j=i-1;
 		    int key=a[i];
-		    j=i-1;
 		    while(j>=0 && a[j]>key){
 		        a[j+1]=a[j];
 		        j--;
