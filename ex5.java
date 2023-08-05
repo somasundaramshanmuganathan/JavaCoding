@@ -7,7 +7,6 @@ public class ex5 {
       int r = 0, c = 0;
       char a[] = s1.toCharArray ();
       char b[][] = new char[10][10];
-      char d[][] = new char[10][10];
       for (int i = 0; i < a.length; i++)
         {
       if (a[i] != ' ')
