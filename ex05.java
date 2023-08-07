@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class ex5 {
+public class ex05 {
     public static void main (String[]args)
     {
       String s1 = "My name is rahul";

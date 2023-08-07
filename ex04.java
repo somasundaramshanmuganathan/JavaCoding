@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class ex4 {
+public class ex04 {
 	public static void main(String[] args) {
 		String s1="abbcdd";
 		char a[]=s1.toCharArray();

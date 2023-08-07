@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class ex6 {
+public class ex06 {
     public static void main(String[] args) {
 		int a[]={2,8,4,-1,7,10,5,6};
 		int i=0,j=0,mv=0,mi=0;

@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class ex3 {
+public class ex03 {
     public static void main(String[] args) {
 		String s1="wELCOME tO jAVA cODING";
 		char a[]=s1.toCharArray();

@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class ex2 {
+public class ex02 {
     public static void main(String[] args) {
 		String s1="welcometothejavacoding";
 		for(int i=0;i<s1.length();i++){
